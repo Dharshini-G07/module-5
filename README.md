@@ -1,3 +1,5 @@
+## NAME : PRIYADHARSHINI G
+## REGISTER NO : 212224230209
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 ## AIM
 To write a C Program to find area of rectangle using pointer.
@@ -278,8 +280,8 @@ int main()
 
 ```
 ## OUTPUT
+![Screenshot 2025-04-28 143559](https://github.com/user-attachments/assets/76df89b8-2ee8-4eb7-9926-3bf03d09aaa0)
 
- 
 
 ## RESULT
 
